@@ -1,0 +1,12 @@
+name: midterm_api
+description: API server (Dart) cho ứng dụng quản lý người dùng - kết nối PostgreSQL.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.11.0
+dependencies:
+  crypto: ^3.0.8
+  postgres: ^3.6.0
+  shelf: ^1.4.3
+  shelf_router: ^1.1.5

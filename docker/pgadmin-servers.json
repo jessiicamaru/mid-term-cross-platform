@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "midterm_postgres",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "midterm_db",
+      "Username": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
